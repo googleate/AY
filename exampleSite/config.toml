@@ -14,23 +14,15 @@ languageName = "En"
 weight = 1
 [[Languages.en.menu.footer]]
 URL = "about"
-name = "About"
+name = "Acerca de"
 weight = 1
 [[Languages.en.menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[Languages.en.menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[Languages.en.menu.footer]]
 URL = "pricing"
-name = "Pricing"
+name = "Blog"
 weight = 4
 [[Languages.en.menu.footer]]
 URL = "faq"
-name = "FAQ"
+name = "Estatutos"
 weight = 5
 [[Languages.en.menu.footer]]
 URL = "contact"
@@ -38,11 +30,11 @@ name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
 URL = "/"
-name = "Home"
+name = "Inicio"
 weight = 1
 [[Languages.en.menu.main]]
 URL = "about"
-name = "About"
+name = "Acerca de"
 weight = 2
 [[Languages.en.menu.main]]
 URL = "blog"
@@ -55,7 +47,7 @@ name = "Estatutos"
 weight = 5
 [[Languages.en.menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 6
 [Languages.fr]
 contentDir = "content/french"

@@ -37,7 +37,7 @@ service:
   enable: false
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: "/images/logo-6.jpg"
   title: Contacta con nosotros
   content: ''
   button:

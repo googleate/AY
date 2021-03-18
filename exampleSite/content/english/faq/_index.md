@@ -8,7 +8,7 @@ bg_image: images/featue-bg.jpg
 ---
 ### Acta de estatutos del Partido Político Acción Yuntar
 
-**Número dos mil cuatrocientos uno:**  
+**Número dos mil cuatrocientos uno:![](/images/timbre.jpg)**  
 En el Real Sitio de San Lorenzo del Escorial, mi residencia, a nueve de Noviembre de mil novecientos noventa.
 
 Ante mí, Rafael Izquierdo Asensio, Notario del Ilustre Colegio de Madrid.

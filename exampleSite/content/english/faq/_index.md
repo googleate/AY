@@ -1,7 +1,7 @@
 ---
 title: Estatutos
-description: ''
-subtitle: ''
+description: Partido Político Accion Yuntar
+subtitle: 'Número dos mil cuatrocientos uno:'
 date: 2020-03-23T13:05:29.000+06:00
 bg_image: images/featue-bg.jpg
 

@@ -12,9 +12,9 @@ banner:
 about:
   enable: true
   title: Acerca de nosotros
-  description: Fundado hace 30 años por JUAN IGNACIO CALLEJO DEL RIO y con NIF registrado  G79894903
-    ¡AY! surge como Partido Político en España para dar voz a todas las inquietudes
-    sociales
+  description: |-
+    Fundado hace 30 años por JUAN IGNACIO CALLEJO DEL RIO y con NIF registrado  G79894903 ¡AY! surge como Partido Político en España para dar voz a todas las inquietudes sociales.
+    Cada voto una queja es nuestro slogan y así lo cumplimos con acciones reales para dar respuestas a las inquietudes de nuestros afiliados.
   content: ''
   image: images/wrapper-img.png
 portfolio:

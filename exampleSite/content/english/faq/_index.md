@@ -34,14 +34,39 @@ Intervienen por su propio nombre y derecho. Tienen, a mi juicio, capacidad, lega
 
    Así lo dicen y otorgan
 
-Leída por mi, el notario, esta escritura, después de advertir a los comparecientes 
+Leída por mi, el notario, esta escritura, después de advertir a los comparecientes del derecho que para hacerlo si tenian, del que no usaron, prestan su consentimiento y firman.
 
-#### 1.Overview
+De identificar a los comparecientes por sus reseñados documentos nacionales de identidad y de todo lo consignado en este instrumento público que queda extendido sobre dos folios del timbre del Estado de claso ocatava serie OS. números 0.905.361 y el presente, yo el Notario, doy fé. Están las firmas de DOn Juan Ignacio Callejo del Río, Doña Ana María Muñoz Montijo y Don Luis Barcala Vilalr - Signado: R. Izquierdo - Rubricados.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+Está el sello de la Notaría.
 
-#### 2. Data We Collect
+A continuación sigue una copia del documento unido a la matriz.
+
+#### Capítulo Primero: Denominación, Fines, Domicilio
+
+.11 Al amparo de los artículos 6 de la COnstitución española Cuyo total Acatamiento se manifiesta en forma expresa y 1 de la Ley 54/1978 de 4 de diciembre, se constituye el Partido Político denominado Accion Yuntar cuyas siglas AY, su símbolo como partido trae opcionalmente sobre fondo de territorialmente, se podrá añadir a conveniencia algún otro elemento simbólico ( que no induzca a confusión con otras entidades o desvirtue el simbolismo básico) para diferenciar las actuaciones locales recalcando asi el carácter ilustrado y liberador del partido.
+
+.12 Accion Yuntar es un partido político de corte utópico, liberal e ilustrado cuyo ámbito territorial es el de la Comunidad Autónoma de Madrid, constituído para contribuir democráticamente a la determinación de la política local de sus municipios y en muy especial de los de: Alpedrete, Becerril, Cerceda, Cercedilla, Collado Mediano, Colmenarejo, El Escorial, San Lorenzo del Escorial, Torrelodones, Fresnedillas, Galapagar, Guadarrama, Los Molinos, Moralzarzal, Navacerrada, Valdemorillo, Zarzalejo, Colaldo de Villalba y Robledo de Chavela. Contribuyando a la formación de la voluntad política de los ciudadanos asi como promoviendo su participación en las instituciones mediante la presentación y apoyo de candidatos a las correspondientes elecciones con arreglo a los siguientes fines específicos:
+
+.121 Defender el principio fundamental de que la Persona está por encima de las instituciones en el más amplio sentido legal posible y como consecuencia:
+
+.1211 Se considera que el ayuntamiento lo es en tanto que unión libre de personas y su fuerza y respetabilidad nacen únicamente de esta voluntad de unión, natural al ser humano. Yuntar o ayuntar en la literatura ilustrada del XVIII significa facilitar la unión natural de personas libres y plenas, no la unión que malvive bajo instituciones que no sirven a los fines para los que fueron creadas sino a otros de difícil justificación.
+
+.1212 La queja, en especial la que surge de forma natural y primigenia: el ¡AY!, usado aún cuando el ser humano no conoce el habla, es la incontestable respuesta del ciudadano sojuzgado y herido por la prepotencia de las instituciones y por tanto, el símbolo de nuestro partido.
+
+.1213 Los restantes fines son el desarrollo de la defensa de este principio único y fundamental en AY: nuestro mayor anhelo es el pleno ayuntamiento en paz y hermandad de todos los seres vivos por encima de instituciones e ideologías.
+
+.122 Dar cauce a cuanta queja fundamentada pueda materializarse en medidas de política concreta por parte de nuestros candidatos electos o independientes que deban su elección al apoyo de AY.
+
+.123 Procurar evitar el deterioro del Medio Ambiente en la zona de actuación de AY y la protección de toda forma de vida.
+
+.124 Fomentar la hermandad entre los habitantes de la Sierra de Guadarrama en todos los ámbitos de convivencia.
+
+.125 Promover actuaciones en materia de empleo, vivienda y transporte coordinadas de tal suerte que todo habitante de la zona pueda atender a sus necesidades básicas sin deteriro sustancial de la privilegiada calidad de vida que el entorno permite.
+
+.126 Fomentar y promover fórmulas imaginativas de Turismo, incidiendo en los aspectos docentes y culturales, procurando la creación de trabajo no estacional y el intercambio de ideas, vivencias convivencias. En méritos a la especial relevancia turística que la fecha de 1992 debería tener ( y no tiene) para el Real Sitio de San Lorenzo de el Escorial, se procurará atraer la atención de la Sociedad Estatal para la Ejecución de Programas y Actividades Conmemorativas del V Centenario y demás entidades implicadas para conseguir para este municipio el máximo número posible de promociones, especialmente en lso campos que dejen permanentemente después de esa fecha equipamentos fijos de infraestructura y transporte.
+
+#### Capítulo Segundo
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
 quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam

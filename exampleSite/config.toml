@@ -8,7 +8,7 @@ themesDir = "googleate.es"
 title = "Accion Yuntar"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Todos los derechos reservados &copy; 2021 [AccionYuntar](https://accionyuntar.es) All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -45,10 +45,6 @@ URL = "about"
 name = "About"
 weight = 2
 [[Languages.en.menu.main]]
-URL = "project"
-name = "Project"
-weight = 3
-[[Languages.en.menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 4
@@ -56,18 +52,6 @@ weight = 4
 hasChildren = true
 name = "Pages"
 weight = 5
-[[Languages.en.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "service"
-name = "Service"
-parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "contact"
 name = "Contact"

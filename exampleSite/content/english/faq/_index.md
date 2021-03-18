@@ -67,6 +67,14 @@ A continuación sigue una copia del documento unido a la matriz.
 
 .126 Fomentar y promover fórmulas imaginativas de Turismo, incidiendo en los aspectos docentes y culturales, procurando la creación de trabajo no estacional y el intercambio de ideas, vivencias convivencias. En méritos a la especial relevancia turística que la fecha de 1992 debería tener ( y no tiene) para el Real Sitio de San Lorenzo de el Escorial, se procurará atraer la atención de la Sociedad Estatal para la Ejecución de Programas y Actividades Conmemorativas del V Centenario y demás entidades implicadas para conseguir para este municipio el máximo número posible de promociones, especialmente en lso campos que dejen permanentemente después de esa fecha equipamentos fijos de infraestructura y transporte.
 
+.127 Luchar contra el racismo considerado muestra de incultura, la marginación y la discriminación en todas sus formas.
+
+.128 Juventud, mujer, educación cultura y deporte son palabras que hieden en la boca que la junta promiscuamente para pronunciarlas en vano y es el nombre de las concejalías de poca monta que se ven obligados a aceptar los que tanto prometieron en su nombre (cuando lo que pretendían eran otras concejalías de más enjundia crematistica). En AY, que unimos estas palabras de amor, libertad y poesía pero también con las de igualdad, respeto, dignidad y vida en plenitud.
+
+.129 Servir, en fin de vehículo y aglutinante para la presentación y apoyo de condidaturas independientes o pertenecientes a instituciones de todo tipo que de alguna forma conecten con los ideales de AY; así como el establecimiento con dichas personas yu entidades de todo tipo de convenios y fórmulas de cooperación y apoyo.
+
+.13 El Domicilio de AY, radica en el Real SItio de San Lorenzo del Escorial en c/ Xavier Cabello Lapiedra 6, (Bloque III 3A) CP 28200 y 
+
 #### Capítulo Segundo
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at

@@ -17,7 +17,7 @@ URL = "about"
 name = "Acerca de"
 weight = 1
 [[Languages.en.menu.footer]]
-URL = "pricing"
+URL = "blog"
 name = "Blog"
 weight = 4
 [[Languages.en.menu.footer]]

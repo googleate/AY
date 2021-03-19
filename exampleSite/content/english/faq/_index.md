@@ -73,33 +73,87 @@ A continuación sigue una copia del documento unido a la matriz.
 
 .129 Servir, en fin de vehículo y aglutinante para la presentación y apoyo de condidaturas independientes o pertenecientes a instituciones de todo tipo que de alguna forma conecten con los ideales de AY; así como el establecimiento con dichas personas yu entidades de todo tipo de convenios y fórmulas de cooperación y apoyo.
 
-.13 El Domicilio de AY, radica en el Real SItio de San Lorenzo del Escorial en c/ Xavier Cabello Lapiedra 6, (Bloque III 3A) CP 28200 y 
+.13 El Domicilio de AY, radica en el Real SItio de San Lorenzo del Escorial en c/ Xavier Cabello Lapiedra 6, (Bloque III 3A) CP 28200 y podrá ser modificado por acuerdo de la Asamble General.
 
-#### Capítulo Segundo
+#### Capítulo Segundo: Afiliados, Derechos y Deberes
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+.21 Podrán ser afiliados de Accion Yuntar los españoles mayores de edad que no pertenezcan a otro partido político. Estos requisitos por imperativo legal, AY no cierra puertas a simpatizantes que no cumplan alguno de ellos (para los que se arbitraran formas de colaboración con el máximo alcance legal posible)
 
-#### 3. How We Use Data
+.22 Existirá en el partido el Libro Registro de Afiliados
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+.23 La cualidad de miembro del Partido se adquiere a solicitud del interesado por acuerdo de la Asamblea General. El cese es libre, comunicando al gerente técnico por correos certificado y sirviendo el resguardo de correos de comprobantes de hechos de la baja y de la fecha. 
 
-#### 4. How We Disclose Data.
+.24 Son Derechos de los afiliados: 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
+.241 Impulsar el cumplimiento de los fines del partido 
 
-#### 5. Security
+.242 Presentar las iniciativas que estimen convinientes. 
+
+.243 Ser elector y elegible para los órganos rectores.
+
+.244 Acceso libre a todo tipo de información económica del partido. 
+
+.245 Detentar la mas amplia libertad para formar quejas y preguntas sin ser sancionados de forma alguna.
+
+.25 Son deberes de los afiliados 
+
+.251 Colaborar con la realizacion del programa del partido. 
+
+.252 Cumplir los acuerdos válidos de los órganos recotres. 
+
+.253 Satisfacer las cuotas económicas establecidas. 
+
+.254 Guardar elementales principios de buena educación en su actuación y manifestaciones dentro y fuera del partido . 
+
+.255 Ser respetuoso y cortés con cualquier postura politica religiosa o filosófica. 
+
+.256 Mantener una actitud vigilante de la prepotencia de las instituciones . 
+
+.257 Abstenerse de formular críticas en nombre de AY a los principios basicos que constituyan el ideario de cualquier organizacion politica , religiosa, sindical , civica, vecinal , ecologista o filosófica. 
+
+.258 Mantener una actitud militante en favor de la Paz , la Fraternidad , la no discriminacion y en contra de cualquier abuso o injusticia . 
+
+.259 Ser breve , claro y conciso en las intervenciones . Quedan formalmente prohibidas la descortesia , el abuso del uso de la palabra , la mala fe , la falta de amenidad , la falta de sinceridad, el oponerse a algo sin proponer alternativa, el entrar en debate , salirse por la tangente , utilizar trucos dialécticos y la ambiguedad. 
+
+.260 Amar al prójimo , Ser cívico y buen vecino . Que el lugar donde vivimos quede en mejores condiciones al abandonarlo que las que nos encontramos al llegar . 
+
+. 261 Realizar con carácter simbólico , al afiliarse a AY algun acto concreto de caracter ilustrado , deportivo , pacifista , humanitario o ecológico : organizar algun acto cultural , colaborar con protección civil , intervenir en alguna manifestación autorizada en defensa de los fines expuestos , participar en marchas o excursiones culturales e.t.c
+
+.26 Régimen disciplinario: Para simbolizar que el principio de que dentro de legalidad y la buena educación, la persona , a la que manifestamos fe y respeto absolutos , prevelece sobre las Instituciones ; en AY (que , después de todo, también es Institución en sentido amplio) No se establece de forma expresa sanción alguna aplicable a sus miembros , de los que se espera un correcto comportamiento que haga innecesario el establecimiento de un apartado disciplinario en los estatutos . La Asamblea General podra acordar en un futuro con caracter no retroactiva , la inclusion de un procedimiento sancionador con el maximo de garantias a los derechos democraticos y a la dignidad de la persona de los miembros que pudieren verse afectados ; pero antes de establecerlo debera recordar la ley del KARMA: todo daño o abuso acaba volviendose en contra del que lo comete . 
+
+#### 3. Capítulo Tercero:
+
+.31 La organización y funcionamiento del partido se basa en principios democráticos y de absolutoi respeto a la persona ; su único órgano colegiado la Asamblea General ; Su único principio insolayable en materia organizativa es la segunda ley de la termodinamica .
+
+.32 La Asamblea General esta constituida por el conjunto de los afiliados al partido AY convocado por el Gerente Técnico. A su discreción , los miembros podran actuar directamente o por medio de compromisos.
+
+.33 Gerente Técnico, Representante Legal de AY, será elegido y cesado libremente por la Asamblea General de entre los miembros presentes por mayoría simple de votos represnetados en vuelta única.
+
+#### Capítulo Cuarto: Régimen Económico y Patrimonial
+
+.41 Recursos económicos: El Partido podrá adquirir, administrar y enajenar los bienes y derechos que resulten necesarios para el cumplimiento de sus fines. Los recursos económicos del partido están constituidos por:
+
+a) Las cuotas y aportaciones de los afiliados  
+b) Los rendimientos del patrimonio  
+c) Los c´reditos que se concierten  
+d) Las herencias, legados o donaciones que se reciban  
+e) Cualequier otro ingreso que se reciba de confromidad con lo dispuesto en la Ley Orgánica 3/1987 de financiación de los partidos políticos:
+
+.42 Patrimonio inicial:
+
+1 Máquina de escribir IBM valorada en 40.000 pts  
+1 Mesa de tijera de pino valorada en 3.000 pts  
+Efectivo en Caja y bancos 97.000 ptas
+
+Neto inicial en pesetas: 130.000 pts
+
+No hay deudas de ningún tipo
+
+.43 El Partido llevará los libros de Tesorería, inventarios y balances que permitan en todo momento conocer la situación financiera.
+
+.44 La administración, fiscalización y control del régimen económico y patrimonial correrá a cargo de la Asamblea General, la cual podrá nombrar comisiones para ello y/o contratar y conocer los más amplios poderes a personal facultativo auxiliar y firmar auditorías de dentro fuera del Partido para ejecutar estas tareas. La contratación de personal laboral hasta la primera reunión de la Asamblea General será realizada por el Gerente Técnico bajo responsabilidad sin que el sexo, raza o postura religiosa de los contratados pueda ser objeto de discriminación. 
+
+#### Capítulo Quinto: Reforma de los estatutos y disolución
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
 cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.

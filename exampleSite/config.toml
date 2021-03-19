@@ -26,7 +26,7 @@ name = "Estatutos"
 weight = 5
 [[Languages.en.menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 6
 [[Languages.en.menu.main]]
 URL = "/"

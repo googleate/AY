@@ -158,3 +158,5 @@ No hay deudas de ningún tipo
 .51 El acuerdo de modificación con carácter no retroactivo de los presentes Estatutos y el de disolución serán tomados libremente por la Asamblea General. El acuerdo de disolución designará una comisión liquidadora que finalmente distribuirá el neto resultante de la liquidación, una vez satisfechas las obligaciones financieras que existieren entre organizaciones ecologísticas con implantación en la zona de actuación del Partido.
 
 Están las firmas de Don Juan Ignacio Callejo Del Río, Doña Ana María Muñoz Montijo y Don Luis Barcala Villar
+
+![](/images/firmas.jpg)

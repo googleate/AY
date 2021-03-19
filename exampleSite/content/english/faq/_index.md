@@ -121,7 +121,7 @@ A continuación sigue una copia del documento unido a la matriz.
 
 .26 Régimen disciplinario: Para simbolizar que el principio de que dentro de legalidad y la buena educación, la persona , a la que manifestamos fe y respeto absolutos , prevelece sobre las Instituciones ; en AY (que , después de todo, también es Institución en sentido amplio) No se establece de forma expresa sanción alguna aplicable a sus miembros , de los que se espera un correcto comportamiento que haga innecesario el establecimiento de un apartado disciplinario en los estatutos . La Asamblea General podra acordar en un futuro con caracter no retroactiva , la inclusion de un procedimiento sancionador con el maximo de garantias a los derechos democraticos y a la dignidad de la persona de los miembros que pudieren verse afectados ; pero antes de establecerlo debera recordar la ley del KARMA: todo daño o abuso acaba volviendose en contra del que lo comete . 
 
-#### 3. Capítulo Tercero:
+#### 3. Capítulo Tercero: Órganos de representación, gobierno y administración
 
 .31 La organización y funcionamiento del partido se basa en principios democráticos y de absolutoi respeto a la persona ; su único órgano colegiado la Asamblea General ; Su único principio insolayable en materia organizativa es la segunda ley de la termodinamica .
 
@@ -155,13 +155,6 @@ No hay deudas de ningún tipo
 
 #### Capítulo Quinto: Reforma de los estatutos y disolución
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
+.51 El acuerdo de modificación con carácter no retroactivo de los presentes Estatutos y el de disolución serán tomados libremente por la Asamblea General. El acuerdo de disolución designará una comisión liquidadora que finalmente distribuirá el neto resultante de la liquidación, una vez satisfechas las obligaciones financieras que existieren entre organizaciones ecologísticas con implantación en la zona de actuación del Partido.
 
-#### 6. Advertising.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
+Están las firmas de Don Juan Ignacio Callejo Del Río, Doña Ana María Muñoz Montijo y Don Luis Barcala Villar

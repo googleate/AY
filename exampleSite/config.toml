@@ -179,5 +179,11 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
+icon = "ion-social-instagram-outline"
+link = "https://www.instagram.com/accionyuntar/?hl=es"
+[[params.social]]
+icon = "ion-social-twitter-outline"
+link = "https://twitter.com/AccionYuntar"
+[[params.social]]
 icon = "ion-social-facebook-outline"
-link = "#"
+link = "https://www.facebook.com/AYCALLEJO"
